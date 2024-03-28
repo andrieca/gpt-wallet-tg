@@ -1,0 +1,7 @@
+{
+    "TELEGRAM_TOKEN" : "6368756653:AAENupXisiWLuurVBZbSMXlqGSDjijTGJKA",
+    "TELEGRAM_BOT_LINK": "https://t.me/ton_connect_example_bot",
+    "MANIFEST_URL": "https://raw.githubusercontent.com/ton-connect/demo-telegram-bot/master/tonconnect-manifest.json",
+    "WALLETS_LIST_CAHCE_TTL_MS": 86400000,
+    "DELETE_SEND_TX_MESSAGE_TIMEOUT_MS": 600000
+}
